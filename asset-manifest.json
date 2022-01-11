@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mabdullahse/veterinary-project/static/css/main.afd7172b.chunk.css",
+    "main.js": "/mabdullahse/veterinary-project/static/js/main.e01e384b.chunk.js",
+    "main.js.map": "/mabdullahse/veterinary-project/static/js/main.e01e384b.chunk.js.map",
+    "runtime-main.js": "/mabdullahse/veterinary-project/static/js/runtime-main.e0f573ec.js",
+    "runtime-main.js.map": "/mabdullahse/veterinary-project/static/js/runtime-main.e0f573ec.js.map",
+    "static/css/2.17284776.chunk.css": "/mabdullahse/veterinary-project/static/css/2.17284776.chunk.css",
+    "static/js/2.942b0fd4.chunk.js": "/mabdullahse/veterinary-project/static/js/2.942b0fd4.chunk.js",
+    "static/js/2.942b0fd4.chunk.js.map": "/mabdullahse/veterinary-project/static/js/2.942b0fd4.chunk.js.map",
+    "index.html": "/mabdullahse/veterinary-project/index.html",
+    "static/css/2.17284776.chunk.css.map": "/mabdullahse/veterinary-project/static/css/2.17284776.chunk.css.map",
+    "static/css/main.afd7172b.chunk.css.map": "/mabdullahse/veterinary-project/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.942b0fd4.chunk.js.LICENSE.txt": "/mabdullahse/veterinary-project/static/js/2.942b0fd4.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/mabdullahse/veterinary-project/static/media/revicons.e8746a62.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0f573ec.js",
+    "static/css/2.17284776.chunk.css",
+    "static/js/2.942b0fd4.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.e01e384b.chunk.js"
+  ]
+}
